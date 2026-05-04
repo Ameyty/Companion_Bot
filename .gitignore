@@ -1,0 +1,26 @@
+# Arduino / Embedded build files
+*.ino.cpp
+*.hex
+*.elf
+*.bin
+*.map
+*.o
+
+# Temporary / logs
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python (if you later use Raspberry Pi / AI)
+__pycache__/
+*.pyc
+
+# Data files (optional – if you log sensor data)
+data/
+logs/
